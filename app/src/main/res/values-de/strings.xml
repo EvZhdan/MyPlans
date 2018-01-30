@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Angelegenheiten</string>
+
+    <string-array name="priority_levels">
+        <item>Niedrige Priorität</item>
+        <item>Normale Priorität</item>
+        <item>Hohe Priorität</item>
+    </string-array>
+
+    <string name="current_task">Aktuell</string>
+    <string name="dialog_Cancel">Schließen</string>
+    <string name="dialog_OK">Ok</string>
+    <string name="dialog_editing_title">Bearbeiten</string>
+    <string name="dialog_error_empty_title">Bitte füllen Sie das Feld aus</string>
+    <string name="dialog_removing_message">Möchten Sie die Aufgabe löschen?</string>
+    <string name="dialog_title">Aufgabe hinzufügen</string>
+    <string name="don_t_show_start_screen">Splash-Bildschirm nicht anzeigen</string>
+    <string name="done_task">Fertig</string>
+    <string name="removed">Entfernt</string>
+    <string name="separator_future">Zukunft</string>
+    <string name="separator_overdue">Überfällig</string>
+    <string name="separator_today">Heute</string>
+    <string name="separator_tomorrow">Morgen</string>
+    <string name="task_date">Datum</string>
+    <string name="task_time">Zeit</string>
+    <string name="task_title">Kopfzeile</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

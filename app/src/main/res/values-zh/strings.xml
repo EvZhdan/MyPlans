@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的事务</string>
+
+    <string-array name="priority_levels">
+        <item>低優先級</item>
+        <item>普通優先級</item>
+        <item>高優先級</item>
+    </string-array>
+
+    <string name="current_task">当前</string>
+    <string name="dialog_Cancel">取消</string>
+    <string name="dialog_OK">好</string>
+    <string name="dialog_editing_title">编辑任务</string>
+    <string name="dialog_error_empty_title">请输入标题</string>
+    <string name="dialog_removing_message">你确定要删除这个任务吗？</string>
+    <string name="dialog_title">添加任务</string>
+    <string name="don_t_show_start_screen">不要显示开始屏幕</string>
+    <string name="done_task">完成</string>
+    <string name="removed">删除</string>
+    <string name="separator_future">未来</string>
+    <string name="separator_overdue">过期的</string>
+    <string name="separator_today">今天</string>
+    <string name="separator_tomorrow">明天</string>
+    <string name="task_date">日期</string>
+    <string name="task_time">时间</string>
+    <string name="task_title">标题</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

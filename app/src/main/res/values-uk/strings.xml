@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мої справи</string>
+
+    <string-array name="priority_levels">
+        <item>Низький пріоритет</item>
+        <item>Середній пріоритет</item>
+        <item>Високий пріоритет</item>
+    </string-array>
+
+    <string name="current_task">Поточні</string>
+    <string name="dialog_Cancel">Закрити</string>
+    <string name="dialog_OK">Ок</string>
+    <string name="dialog_editing_title">Редагувати</string>
+    <string name="dialog_error_empty_title">Будь ласка, заповніть поле</string>
+    <string name="dialog_removing_message">Хочете видалити цю задачу?</string>
+    <string name="dialog_title">Додати завдання</string>
+    <string name="don_t_show_start_screen">Чи не показувати заставку</string>
+    <string name="done_task">Готово!</string>
+    <string name="removed">Дистанційні</string>
+    <string name="separator_future">Майбутні</string>
+    <string name="separator_overdue">Прострочили</string>
+    <string name="separator_today">Сьогодні</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Час</string>
+    <string name="task_title">Заголовок</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MesAffaires</string>
+
+    <string-array name="priority_levels">
+        <item>Faible priorité</item>
+        <item>Priorité normale</item>
+        <item>Haute priorité</item>
+    </string-array>
+
+    <string name="current_task">Courant</string>
+    <string name="dialog_Cancel">Fermer</string>
+    <string name="dialog_OK">Ok</string>
+    <string name="dialog_editing_title">Modifier une tâche</string>
+    <string name="dialog_error_empty_title">S\'il vous plaît, entrez le titre</string>
+    <string name="dialog_removing_message">Voulez-vous vraiment supprimer cette tâche?</string>
+    <string name="dialog_title">Ajout de tâche</string>
+    <string name="don_t_show_start_screen">Ne pas afficher l\'écran de démarrage</string>
+    <string name="done_task">Terminé</string>
+    <string name="removed">Supprimé</string>
+    <string name="separator_future">Futur</string>
+    <string name="separator_overdue">En retard</string>
+    <string name="separator_today">Aujourd\'hui</string>
+    <string name="separator_tomorrow">Demain</string>
+    <string name="task_date">Date</string>
+    <string name="task_time">Temps</string>
+    <string name="task_title">Titre</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

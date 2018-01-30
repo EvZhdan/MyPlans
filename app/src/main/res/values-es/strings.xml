@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MisAsuntos</string>
+
+    <string-array name="priority_levels">
+        <item>Prioridad baja</item>
+        <item>Prioridad normal</item>
+        <item>Alta prioridad</item>
+    </string-array>
+
+    <string name="current_task">Actual</string>
+    <string name="dialog_Cancel">Cerrar</string>
+    <string name="dialog_OK">Ok</string>
+    <string name="dialog_editing_title">Editar tarea</string>
+    <string name="dialog_error_empty_title">Por favor ingrese un campo</string>
+    <string name="dialog_removing_message">¿Quieres borrar?</string>
+    <string name="dialog_title">Agregar tarea</string>
+    <string name="don_t_show_start_screen">No mostrar pantalla de bienvenida</string>
+    <string name="done_task">Hecho</string>
+    <string name="removed">Eliminado</string>
+    <string name="separator_future">Futuro</string>
+    <string name="separator_overdue">Vencido</string>
+    <string name="separator_today">Hoy</string>
+    <string name="separator_tomorrow">Mañana</string>
+    <string name="task_date">Fecha</string>
+    <string name="task_time">Tiempo</string>
+    <string name="task_title">Encabezado</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

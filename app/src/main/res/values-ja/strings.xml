@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">私の事</string>
+
+    <string-array name="priority_levels">
+        <item>優先度が低い</item>
+        <item>通常優先度</item>
+        <item>高優先度</item>
+    </string-array>
+
+    <string name="current_task">現在の</string>
+    <string name="dialog_Cancel">閉じる</string>
+    <string name="dialog_OK">Ok</string>
+    <string name="dialog_editing_title">編集タスク</string>
+    <string name="dialog_error_empty_title">タイトルを入力してください</string>
+    <string name="dialog_removing_message">このタスクを削除してもよろしいですか？</string>
+    <string name="dialog_title">タスクの追加</string>
+    <string name="don_t_show_start_screen">開始画面を表示しない</string>
+    <string name="done_task">完了</string>
+    <string name="removed">削除済み</string>
+    <string name="separator_future">未来</string>
+    <string name="separator_today">今日</string>
+    <string name="separator_overdue">延滞</string>
+    <string name="separator_tomorrow">明日</string>
+    <string name="task_date">日付</string>
+    <string name="task_time">時間</string>
+    <string name="task_title">タイトル</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

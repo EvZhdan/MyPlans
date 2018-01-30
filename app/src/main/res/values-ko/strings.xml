@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">내 문제</string>
+
+    <string-array name="priority_levels">
+        <item>우선 순위 낮음</item>
+        <item>보통 우선 순위</item>
+        <item>높은 우선 순위</item>
+    </string-array>
+
+    <string name="current_task">현재</string>
+    <string name="dialog_Cancel">취소</string>
+    <string name="dialog_OK">승인</string>
+    <string name="dialog_editing_title">편집 작업</string>
+    <string name="dialog_error_empty_title">제목을 입력하십시오.</string>
+    <string name="dialog_removing_message">이 작업을 삭제 하시겠습니까?</string>
+    <string name="dialog_title">작업 추가 중</string>
+    <string name="don_t_show_start_screen">시작 화면 표시 안 함</string>
+    <string name="done_task">끝난</string>
+    <string name="removed">제거됨</string>
+    <string name="separator_future">미래</string>
+    <string name="separator_overdue">기한 초과</string>
+    <string name="separator_today">오늘</string>
+    <string name="separator_tomorrow">내일</string>
+    <string name="task_date">날짜</string>
+    <string name="task_time">시각</string>
+    <string name="task_title">표제</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>

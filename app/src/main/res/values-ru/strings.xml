@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МоиДела</string>
+
+    <string-array name="priority_levels">
+        <item>Низкий приоритет</item>
+        <item>Средний приоритет</item>
+        <item>Высокий приоритет</item>
+    </string-array>
+
+    <string name="current_task">Текущие</string>
+    <string name="dialog_Cancel">Закрыть</string>
+    <string name="dialog_OK">Ок</string>
+    <string name="dialog_editing_title">Редактировать</string>
+    <string name="dialog_error_empty_title">Пожалуйста, введите поле</string>
+    <string name="dialog_removing_message">Хотите удалить эту задачу?</string>
+    <string name="dialog_title">Добавить задачу</string>
+    <string name="don_t_show_start_screen">Не показывать заставку</string>
+    <string name="done_task">Готово!</string>
+    <string name="separator_future">Будущие</string>
+    <string name="separator_overdue">Просрочено</string>
+    <string name="separator_today">Сегодня</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+    <string name="task_title">Заголовок</string>
+    <string name="removed">Удалено</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8683234449156952/7033421641</string>
+</resources>
